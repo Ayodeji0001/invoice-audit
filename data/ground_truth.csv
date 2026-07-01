@@ -1,0 +1,151 @@
+uid,file_name,template,vendor_name,invoice_number,invoice_date,due_date,currency,subtotal,tax,total_amount,payment_terms,injected_error,expected_route,drive_file_id
+617024cd-81d7-42fb-9e32-ef876cef1b5c,inv_617024cd.pdf,0,QuickPrint Studio,QUI-2000,2026-01-31,2026-02-15,CAD,311.97,40.56,352.53,Net 15,clean,auto-approve,1TQf1M0IKvOdvtNvoAOVZqrReK29GMjTp
+6faaed04-8da1-4645-a502-213e22cc376e,inv_6faaed04.pdf,0,Northstar Office Supply,NOR-2001,2026-05-24,2026-07-08,CAD,673.45,87.55,761.00,Net 45,clean,auto-approve,1ebUrQXIIGMFvZj_8Jc5mdNHHgTFizr-k
+e8f4e262-cb88-4a9f-8fda-864d8d6b402d,inv_e8f4e262.pdf,2,Bluebird Marketing,BLU-2002,2026-04-01,2026-04-16,CAD,8445.67,1097.94,9543.61,Net 15,clean,needs-approval,1La0RDGEAIsqcMvHq4nf_M2rKB4Fal_WK
+d1348ad6-6046-4dca-a4de-b86509d529d5,inv_d1348ad6.pdf,0,Cedar Facilities Co,CED-2003,2026-03-21,2026-04-20,CAD,4327.83,562.62,4890.45,Net 15,clean,needs-approval,1BKyTKc3zXIYR6RtZCwbJABtcCsq95i-E
+73e2b144-cef6-4227-b94d-35badf5106c2,inv_73e2b144.pdf,1,QuickPrint Studio,QUI-2004,2026-03-14,2026-03-29,CAD,268.32,34.88,303.20,Net 30,clean,auto-approve,1qGmJbSJvAPoM-8UJb162XDKYEREUuZns
+79257f56-7525-4136-8ebd-2dc0d7d5ec2d,inv_79257f56.pdf,3,Northstar Office Supply,NOR-2005,2026-05-30,2026-06-29,CAD,655.48,85.21,740.69,Due on receipt,clean,auto-approve,1FHxOBzsKDiXOA0PVbBkHB5mhZSRKeTCG
+80f40965-e1ae-4865-a01f-52b1c1084f67,inv_80f40965.pdf,0,Cedar Facilities Co,CED-2006,2026-02-09,2026-03-26,CAD,636.75,82.78,719.53,Net 15,clean,auto-approve,1lwntrhqA7tZ54qXIHY5jcIlj7Z3qI9WO
+360915a0-ce05-457d-8774-5724e13992d6,inv_360915a0.pdf,0,Northstar Office Supply,NOR-2005,2026-05-04,2026-06-03,CAD,452.97,58.89,511.86,Net 15,duplicate,needs-approval,13aYfMnWPX30_U7L-pqV7nWZTQzxZ8gq4
+dce59a83-257e-4f8a-b741-05d30f191644,inv_dce59a83.pdf,2,QuickPrint Studio,QUI-2008,2026-03-13,2026-04-12,CAD,427.98,55.64,483.62,Net 15,clean,auto-approve,1cKCD-dVNuyGld2kPqVPkuKw2C03fOc4S
+de5bc83d-50c7-4a24-bdd6-0419dbe8bfb5,inv_de5bc83d.pdf,2,Cedar Facilities Co,CED-2009,2026-06-07,2026-07-07,CAD,868.51,112.91,981.42,Net 15,clean,auto-approve,1g_8DQVzXmwQKiokpmJ6qvkarLC3dJuUM
+914496d3-b185-422e-8d76-3671b7813c3c,inv_914496d3.pdf,1,Cedar Facilities Co,CED-2010,2026-05-21,2026-06-20,CAD,1664.48,216.38,1880.86,Due on receipt,clean,needs-approval,1CsPVYNDgnjqoTjvTUW4x98v1MCMovZLG
+ccb44e72-67af-4781-8cf7-d14334fb635c,inv_ccb44e72.pdf,1,Maple IT Services,MAP-2011,2026-03-09,2026-04-08,CAD,5125.88,666.36,5792.24,Net 15,clean,needs-approval,1YVOK2rSAdz_t9oyPDFKUHEVT9xGHopqN
+eb1a12fa-b4e6-477f-9e10-25e3653eefdf,inv_eb1a12fa.pdf,2,QuickPrint Studio,QUI-2012,2026-06-15,2026-06-30,CAD,165.72,21.54,187.26,Net 15,clean,auto-approve,1m6Fz491u0uRW0b7H4_GwVrxnPOcUQv5x
+1e0d1ed0-5276-4680-b8ad-25eda29f69cd,inv_1e0d1ed0.pdf,3,Northstar Office Supply,NOR-2013,2026-06-01,2026-07-16,CAD,286.70,37.27,323.97,Due on receipt,clean,auto-approve,124sR8-rAdCv7WG2j_3a0W_b5WlZqzGXl
+c3b2a931-0209-4ad9-b6ed-634a64f5b1da,inv_c3b2a931.pdf,0,Northstar Office Supply,NOR-2014,2026-01-18,2026-02-02,CAD,293.56,38.16,331.72,Net 45,clean,auto-approve,1CttFKaDLqc4GlXfnmz72beQa9rMsLUvt
+e46e6a77-a865-4d39-963f-064a95c77dc5,inv_e46e6a77.pdf,0,Maple IT Services,,2026-01-24,2026-03-10,CAD,4182.72,543.75,4726.47,Net 15,missing_invoice_number,needs-approval,1rCdUGAqCjZ8oINAWuld_a3WNj9umJDfu
+f950bb60-bc8c-4bb9-8bd0-7844afaac849,inv_f950bb60.pdf,3,QuickPrint Studio,QUI-2016,2026-02-16,2026-04-02,CAD,385.78,50.15,435.93,Net 30,clean,auto-approve,1IeoyPVfcISFI8A-UUGXSAjHqSUyTjqsw
+ba31c1db-4c40-463f-8190-fcb15365f95c,inv_ba31c1db.pdf,1,Cedar Facilities Co,CED-2017,2026-04-23,2026-06-07,CAD,1046.39,136.03,1182.42,Net 45,clean,needs-approval,1beKMATJXZhYhZaiSGp3pbbTPK1-6vpfA
+421205fd-cd7d-4245-9cfe-f13291a9cbf5,inv_421205fd.pdf,1,Trillium Catering,TRI-2018,2026-05-13,2026-06-12,CAD,781.11,101.54,882.65,Net 15,clean,auto-approve,1_qB5ImR3AODYYAPtKuVGtzTseoQybnnF
+54143ac4-b477-4625-b56c-41f2b8c4fbd6,inv_54143ac4.pdf,0,Northstar Office Supply,NOR-2014,2026-04-18,2026-05-03,CAD,466.94,60.70,527.64,Net 30,duplicate,needs-approval,1s5tYsKos9G_LBLkJXo8l3IH5gsOeqRBt
+68638511-ad11-48ef-80ec-26e73af4fc87,inv_68638511.pdf,0,QuickPrint Studio,QUI-2020,2026-06-19,2026-07-19,CAD,378.44,49.20,427.64,Net 15,clean,auto-approve,1Ftks6LaH-UqWPacFcckABAuK7U574zDm
+8e01d23c-74d8-4cc2-afbb-afdcccdf5c68,inv_8e01d23c.pdf,2,Lakeside Logistics,LAK-2021,2026-04-04,2026-04-19,CAD,2049.95,266.49,2084.80,Net 45,math_mismatch,needs-approval,1-1bx5b2QuZxKFWv8nkCAwqrU5Kgae-im
+99443083-bf49-450d-bdfa-8bcb265aa95e,inv_99443083.pdf,1,Lakeside Logistics,LAK-2022,2026-02-08,2026-03-10,CAD,2482.88,322.77,2805.65,Net 15,clean,needs-approval,1qeKEaUUKqjg6-Q13ykHp79Fhh_xg5yOB
+481199a1-2341-463e-802d-908e1d77f40f,inv_481199a1.pdf,0,Maple IT Services,MAP-2023,2026-05-10,2026-06-09,CAD,5100.74,663.10,6628.42,Net 15,math_mismatch,needs-approval,1OyoF5qJbFuAUJ7Uc4TZFaH9YU0U5zNUf
+6ab1ad94-a44d-43de-938d-db0b765f5476,inv_6ab1ad94.pdf,0,Lakeside Logistics,LAK-2024,2026-01-07,2026-01-22,CAD,1409.87,183.28,1593.15,Net 30,clean,needs-approval,1OCxZiOXBY0JsZx_oGD_iJf_SRBlrBrln
+3add89a9-2020-4d0a-be12-be41ee45dd9d,inv_3add89a9.pdf,0,Cedar Facilities Co,CED-2025,2026-01-15,2026-02-14,CAD,434.72,56.51,491.23,Net 30,clean,auto-approve,105tSfwZ94CxrHk6cd3uYrKDtOAjxUO_i
+1ab452db-97b0-460b-837a-de43dfe932f5,inv_1ab452db.pdf,3,Maple IT Services,MAP-2026,2026-04-20,2026-05-20,CAD,6331.92,823.15,7155.07,Net 15,clean,needs-approval,1MqjotniQIdou7Gpnb-Lh4L1ty6JAKhZV
+ae2e78be-f18d-4499-8ce7-e4dd3c10e250,inv_ae2e78be.pdf,2,Cedar Facilities Co,CED-2027,2026-01-22,2026-02-21,CAD,1170.01,152.10,1322.11,Due on receipt,clean,needs-approval,1USknEIRkk4o6_03j7BJqtOMbHj2_k7tq
+343267b5-3c75-4cad-8d96-ca95c322039c,inv_343267b5.pdf,2,Trillium Catering,TRI-2028,2026-06-02,2026-07-02,CAD,648.30,84.28,732.58,Due on receipt,clean,auto-approve,1Nai8q7sT9ntk8fwZYXy458Hmm0E6c0A0
+66a36e1a-59fa-40d9-b578-9fbf4aa8f4fb,inv_66a36e1a.pdf,2,Bluebird Marketing,BLU-2029,2026-05-22,2026-06-21,CAD,5001.60,650.21,5651.81,Net 15,clean,needs-approval,1l3oXVXh-Prlo4ivVP-XvdtLpE_hDZCpT
+eb227e57-9489-4111-bfe2-4229ab4b7bd8,inv_eb227e57.pdf,3,QuickPrint Studio,QUI-2030,2026-05-14,2026-06-13,CAD,303.72,39.48,343.20,Net 45,clean,auto-approve,1dGX_YAS-ju0YsFcF95QLtv8gSv5Z96Sf
+01a0f25a-0407-4740-925b-55aef753c553,inv_01a0f25a.pdf,2,QuickPrint Studio,QUI-2031,2026-06-11,2026-07-11,CAD,173.48,22.55,196.03,Net 15,clean,auto-approve,1FRmLdn3k04rxOjSafgY7nwSGSvSTsIsh
+4b88e486-6c7a-4daa-870a-84b5b22e604d,inv_4b88e486.pdf,0,Maple IT Services,MAP-2032,2026-06-22,2026-07-07,CAD,1003.12,130.41,1133.53,Net 45,clean,needs-approval,1UR2hQ3Rwj7z4lBJRa8G33BXexGe4qf9V
+e879c8e7-3238-4e2b-abd6-ecd2f30c7df3,inv_e879c8e7.pdf,3,Bluebird Marketing,BLU-2033,2026-03-08,2026-04-22,CAD,4356.37,566.33,4922.70,Net 15,clean,needs-approval,1y6bdVMUiUky0E7AjJzO6WijX1KXlkfxn
+913062fe-1aff-46d2-9e4c-4e30610986b8,inv_913062fe.pdf,3,Lakeside Logistics,LAK-2034,2026-06-30,2026-07-15,CAD,1869.30,243.01,1901.08,Net 15,math_mismatch,needs-approval,1M_JPBViEFcppqyEHQAkt7ImygFZiKA71
+be9e1356-05af-4bd1-8398-0ecd817383ab,inv_be9e1356.pdf,1,Northstar Office Supply,NOR-2035,2026-06-10,2026-07-25,CAD,511.11,66.44,664.18,Due on receipt,math_mismatch,needs-approval,15tqLpvo3nZx7IHcaCCn2E4SaYGM7abgJ
+e35bc1e9-7cbf-4302-af8c-2014474a7cf6,inv_e35bc1e9.pdf,1,Cedar Facilities Co,CED-2036,2026-03-15,2026-04-14,CAD,947.24,123.14,1070.38,Net 15,clean,needs-approval,1YoounvhBv0vORX40K-0T1ab9pxeoHfTN
+7f1befd9-5a75-414d-87c2-94db075c1d3a,inv_7f1befd9.pdf,3,Northstar Office Supply,NOR-2037,2026-06-03,2026-06-18,CAD,353.30,45.93,359.31,Due on receipt,math_mismatch,needs-approval,1w11vP5ixXCtFspL-R0icpS4GyNPCiTL6
+927e5896-09f2-41e7-8820-8a1d04b64105,inv_927e5896.pdf,1,Trillium Catering,TRI-2038,2026-04-14,2026-05-14,CAD,320.32,41.64,361.96,Due on receipt,clean,auto-approve,1i87oCIwCqP_l7pMAZ3N6c1tmqqR62RP5
+51220ff6-507d-4034-aa45-661ef6490468,inv_51220ff6.pdf,1,Cedar Facilities Co,CED-2039,2026-01-26,2026-03-12,CAD,1193.00,155.09,1348.09,Due on receipt,clean,needs-approval,1KFPjsp49_5A6R1_6LAjeCORE6K7j_Q47
+138e8e08-7b6d-400f-babb-34fb9fdf6f3f,inv_138e8e08.pdf,0,Northstar Office Supply,NOR-2040,2026-01-18,2026-02-17,CAD,529.23,68.80,598.03,Net 15,clean,auto-approve,1tP1R-a3X4_nfUgRuiF6NO-nU10V-sVtw
+0feca05e-06d9-47ee-b861-b6b66a3a2f89,inv_0feca05e.pdf,2,Bluebird Marketing,BLU-2041,2026-02-03,2026-03-05,CAD,4120.58,535.68,4656.26,Net 45,clean,needs-approval,1mhO2hqeJoycajAv5MuM72YMnKyyX1tfg
+4bb519c8-9c31-4215-a8c6-9e3e69a4af8a,inv_4bb519c8.pdf,3,Northstar Office Supply,NOR-2040,2026-02-01,2026-02-16,CAD,590.85,76.81,667.66,Due on receipt,duplicate,needs-approval,196ebZKh4Z-qoAltL5qA1PMoLxJDBjV20
+b8af0479-baeb-4288-8e86-6330fc3d98a9,inv_b8af0479.pdf,2,Trillium Catering,,2026-03-23,2026-04-07,CAD,152.05,19.77,171.82,Net 15,missing_invoice_number,needs-approval,1RukN-9vsT3k8_vtD40rBVhsqnnfwH8g3
+970f8ffa-9e23-4305-bff1-fb72e0b95ceb,inv_970f8ffa.pdf,3,Lakeside Logistics,LAK-2044,2026-05-02,2026-06-01,CAD,2853.99,371.02,3225.01,Net 45,clean,needs-approval,1u287_64b93JmgpM2Tx07wE5d1druPT1g
+3e4bc01f-b4ae-4015-a773-f88e50131694,inv_3e4bc01f.pdf,2,Lakeside Logistics,LAK-2045,2026-06-10,2026-07-25,CAD,1500.71,195.09,1695.80,Due on receipt,clean,needs-approval,1hpMGmylmRxQYM9r1a4-A2HJizuxq0z3T
+9b771513-2938-4111-9807-967dc58571a3,inv_9b771513.pdf,0,Northstar Office Supply,NOR-2046,2026-05-27,2026-06-11,CAD,515.22,66.98,582.20,Net 30,clean,auto-approve,1ZlzXL0XVnJNrekOrUPt3_ynY3t-_gUP6
+d83024d6-916e-4154-ba64-380ea6c40ce7,inv_d83024d6.pdf,3,Maple IT Services,MAP-2047,2026-07-01,2026-07-31,CAD,1735.91,225.67,1961.58,Net 45,clean,needs-approval,1A13Vv7EJ1g8k3_jSWM9KNzD5Iu-iwOrI
+b2347ab0-ceda-4def-8da7-fafcb17bcb7f,inv_b2347ab0.pdf,1,Lakeside Logistics,,2026-03-26,2026-04-10,CAD,1218.09,158.35,1376.44,Net 30,missing_invoice_number,needs-approval,1ZqJx-E5GoM_s5xgfKfPjDoLTjHXgi22m
+52656d3d-e22b-4a4d-b4a7-cbb053a869a2,inv_52656d3d.pdf,2,Northstar Office Supply,NOR-2049,2026-05-21,2026-06-20,CAD,764.71,99.41,864.12,Net 15,clean,auto-approve,1-DeQ63-5EqiDFEwaVZUaLxbWStYOO74h
+0a497cb8-01c5-4fe9-99ec-36006a43e3d1,inv_0a497cb8.pdf,2,QuickPrint Studio,QUI-2050,2026-04-27,2026-05-27,CAD,295.25,38.38,333.63,Net 15,clean,auto-approve,1PB_dUAo0PafZEmKvAm8c-TZRrSz6HsKU
+3a6a834b-307e-4492-9c84-cb6fd985ef4c,inv_3a6a834b.pdf,1,Trillium Catering,TRI-2051,2026-03-09,2026-03-24,CAD,1045.38,135.90,1181.28,Due on receipt,clean,needs-approval,1fjiK3gKLloO2Ie8VBq72jE6G1PHCSVBc
+04071152-186d-498d-91d8-0e35f9af1119,inv_04071152.pdf,1,Bluebird Marketing,BLU-2052,2026-06-14,2026-07-14,CAD,9487.21,1233.34,10720.55,Net 15,clean,needs-approval,1V6njZvH4Y-9jR5VB-LQ-KjxOmmahFz_f
+eef0402f-1bb0-4ba4-9651-fe3bd7c546f4,inv_eef0402f.pdf,2,Maple IT Services,MAP-2053,2026-04-19,2026-06-03,CAD,2909.00,378.17,3287.17,Due on receipt,clean,needs-approval,19B33PQASDFZwuzzym9KOdNt_sfcw99We
+85c71ffc-c186-4c84-8e46-176305e7c986,inv_85c71ffc.pdf,1,Northstar Office Supply,NOR-2054,2026-02-24,2026-04-10,CAD,173.46,22.55,196.01,Net 30,clean,auto-approve,1NzgrLrEcj9RslNKjNYLQmwcgzO1-y3KH
+9bc505c6-e520-4e8e-a29e-e476600086be,inv_9bc505c6.pdf,3,Cedar Facilities Co,CED-2055,2026-03-19,2026-05-03,CAD,400.49,52.06,452.55,Net 45,clean,auto-approve,10dBzRSoebYyjw3ma-0Lzduk9tN7W0lb1
+ed0c6351-4eb3-4ebe-95e7-45982d074e3e,inv_ed0c6351.pdf,0,Trillium Catering,TRI-2051,2026-06-01,2026-06-16,CAD,454.94,59.14,514.08,Net 45,duplicate,needs-approval,1A_n8thVuKQhrYqqFDR4FMmuA1_tq_jIP
+46366170-7e3c-4aa1-8928-95e88972521b,inv_46366170.pdf,0,Bluebird Marketing,BLU-2057,2026-06-03,2026-07-18,CAD,8398.10,1091.75,9489.85,Due on receipt,clean,needs-approval,1vvDsofTQcAhpw8bdTIfRcfUgeMmva8Aq
+807156fd-181b-43a5-8c27-547ba0622b80,inv_807156fd.pdf,2,Lakeside Logistics,LAK-2058,2026-05-25,2026-06-09,CAD,3629.83,471.88,4101.71,Net 45,clean,needs-approval,1hyQVvR9pSsiTBgnLEpuDRuvS5wqelDHV
+20bfd718-d03b-42c9-8877-b28a230b7b7d,inv_20bfd718.pdf,3,Maple IT Services,MAP-2059,2026-02-26,2026-03-28,CAD,1356.91,176.40,1533.31,Net 45,clean,needs-approval,1FSTQaGcfAhlJRBaKdfmOxA2wwEWR1TH0
+a93ca561-a305-4596-8074-35e02ab424c9,inv_a93ca561.pdf,3,Cedar Facilities Co,CED-2055,2026-02-03,2026-03-20,CAD,711.15,92.45,803.60,Net 30,duplicate,needs-approval,19rU9-qrgcYIykxt2zxJIXTvd32_lc34b
+8e3aded9-bc48-40e6-af27-2abf639ae74b,inv_8e3aded9.pdf,0,Trillium Catering,TRI-2061,2026-05-26,2026-06-25,CAD,912.12,118.58,1030.70,Net 30,clean,needs-approval,1BDs41-tr99MJeEDm3Egt8mswiGwC1ce5
+24868207-a1f0-4231-aa62-fd48dbf8ff87,inv_24868207.pdf,3,Maple IT Services,MAP-2062,2026-05-22,2026-07-06,CAD,4454.00,579.02,5033.02,Due on receipt,clean,needs-approval,140WMAyt7FwgPrl5GH2_h49JRTprB5dV3
+5c181619-d01a-4be9-bf39-758cd4601a74,inv_5c181619.pdf,3,Trillium Catering,TRI-2063,2026-03-27,2026-05-11,CAD,434.31,56.46,490.77,Due on receipt,clean,auto-approve,15_YLzvO_HekIgR-aDRIjEcSFMQY4MdJu
+a8693555-0852-45ea-8149-dd9294c07304,inv_a8693555.pdf,0,Trillium Catering,TRI-2064,2026-04-27,2026-05-12,CAD,777.64,101.09,878.73,Due on receipt,clean,auto-approve,1O2_yq18-jkUY-fgk6jtrZHtnEpKLzsWU
+034bb24c-a0d5-4415-bde2-68e91c6efcf3,inv_034bb24c.pdf,0,Bluebird Marketing,BLU-2057,2026-05-21,2026-07-05,CAD,6236.04,810.69,7046.73,Due on receipt,duplicate,needs-approval,1tj9JbM7WOKZ4fCOqewPEb6_5cie99Gnn
+78f26f64-6f58-4db9-921b-de4d26f3ca50,inv_78f26f64.pdf,3,QuickPrint Studio,,2026-04-26,2026-05-11,CAD,926.33,120.42,1046.75,Net 15,missing_invoice_number,needs-approval,1p4vMFVECXsx_juc9pNDfk7bMB9tcLwZX
+88fa933b-d549-4a83-8517-a8283f90ba80,inv_88fa933b.pdf,3,Northstar Office Supply,NOR-2067,2026-06-28,2026-07-28,CAD,461.94,60.05,521.99,Net 15,clean,auto-approve,1tDbh_uYqdafucPB-cdgF0qHVlTf4GKJ2
+5d595678-c7a8-4f43-9a8b-fce7ac75db5f,inv_5d595678.pdf,2,QuickPrint Studio,QUI-2068,2026-03-11,2026-03-26,CAD,446.29,58.02,579.96,Due on receipt,math_mismatch,needs-approval,1AZcrX0-WlMcPqPsbkRVrNOfDVzd57peO
+bad04599-5e52-4538-8a6f-91cb5d14da1a,inv_bad04599.pdf,2,Lakeside Logistics,LAK-2069,2026-06-04,2026-07-04,CAD,1973.22,256.52,2229.74,Due on receipt,clean,needs-approval,1xBjoZ4rxj4amt-GUUJKJCWJ7tvqV3pdL
+da72e3e9-8662-468a-be0c-841946b27efb,inv_da72e3e9.pdf,3,Lakeside Logistics,LAK-2070,2026-01-10,2026-02-24,CAD,1195.94,155.47,1351.41,Net 15,clean,needs-approval,1Nl112i-gkhpSEuuHwyU6n6LR7un0HVRr
+5daccbce-87cc-42a0-ae9a-ab661e778106,inv_5daccbce.pdf,2,Cedar Facilities Co,CED-2071,2026-06-22,2026-07-22,CAD,1361.14,176.95,1538.09,Net 15,clean,needs-approval,1QwVDUFcSaEWWRD6X7okNPlcOggyqcb5B
+f1a1b630-4ced-44b7-8643-badb789819ee,inv_f1a1b630.pdf,1,Bluebird Marketing,,2026-03-21,2026-04-20,CAD,3832.50,498.23,4330.73,Net 30,missing_invoice_number,needs-approval,1V3jFd3dLCO4VMkdun2_aHhc76ThRNtNZ
+a898be62-1740-41a5-bfd8-2b89d808c28a,inv_a898be62.pdf,1,Northstar Office Supply,NOR-2073,2026-04-01,2026-04-16,CAD,593.65,77.17,670.82,Net 15,clean,auto-approve,1jnuOjA7Moz6BxJnEI6gSRYzmH6GdASqD
+a7af6186-1718-4ab1-93d7-7182df567ef7,inv_a7af6186.pdf,3,Bluebird Marketing,BLU-2074,2026-01-28,2026-03-14,CAD,1350.84,175.61,1526.45,Net 15,clean,needs-approval,12Veyu0nqwVGI6M1SPco5CkXXRIBDhT-0
+c2b6dd58-453a-49f7-a695-3b85cb3237a9,inv_c2b6dd58.pdf,0,Maple IT Services,MAP-2075,2026-05-28,2026-06-27,CAD,5643.12,733.61,7333.24,Net 30,math_mismatch,needs-approval,1HziFvFJI5TC5yx2P3nhOL2A4Y_lMTaVg
+bf035e1e-032e-47a9-aaa6-b6d9667f69df,inv_bf035e1e.pdf,3,Cedar Facilities Co,CED-2076,2026-01-29,2026-02-28,CAD,1204.23,156.55,1469.64,Net 30,math_mismatch,needs-approval,1bwlYFQXd5q-auOcVsSPmjE9q08AZZ00U
+32c06f9c-9509-4b12-802c-99d7207e6073,inv_32c06f9c.pdf,2,Maple IT Services,MAP-2077,2026-04-09,2026-05-09,CAD,3290.88,427.81,3718.69,Net 30,clean,needs-approval,1BZYUIX3_sf9TUahF5hiEaPbHGWmFtmJ-
+a6f68815-bfd8-41d5-a538-698f01cecf21,inv_a6f68815.pdf,1,Northstar Office Supply,NOR-2078,2026-06-06,2026-06-21,CAD,329.77,42.87,372.64,Net 45,clean,auto-approve,1k1wzyMZ4L19NV80oyl4HiuNsp8VeBgkJ
+5d47bb72-690f-4daf-bd86-479f26600356,inv_5d47bb72.pdf,2,Trillium Catering,,2026-03-30,2026-04-29,CAD,448.85,58.35,507.20,Net 15,missing_invoice_number,needs-approval,16A4p8zAEGSk8aXmXLQq8pUgnPOmBig8I
+83d8f6e4-9fd4-40ff-a558-0f85dd7c8892,inv_83d8f6e4.pdf,2,Cedar Facilities Co,CED-2080,2026-02-07,2026-02-22,CAD,2503.78,325.49,2829.27,Net 30,clean,needs-approval,1GFhq_s6bRFvQI5WyQMKB-_L5w486aH61
+4182598a-eb4c-4cef-b8ce-b166ff464bd5,inv_4182598a.pdf,0,Northstar Office Supply,NOR-2081,2026-04-07,2026-04-22,CAD,386.42,50.23,436.65,Net 30,clean,auto-approve,1b25eviRr5nyai6V0pQPAdnRYE6Kj0_Ow
+dd7f3fa4-4971-49fb-9957-699cd02ce928,inv_dd7f3fa4.pdf,1,Bluebird Marketing,BLU-2082,2026-04-28,2026-05-13,CAD,8172.50,1062.42,8311.43,Net 45,math_mismatch,needs-approval,1Bb9rg2tsttEt2IvCp1VIF96FzDVrIOgx
+ea285e86-2604-481a-99e1-719bdf8b758a,inv_ea285e86.pdf,3,Northstar Office Supply,NOR-2083,2026-02-03,2026-03-05,CAD,671.89,87.35,759.24,Net 30,clean,auto-approve,1RNf2xQu-fJqAIFlkGsGlCGeEz4m3r-fk
+75cbe9e6-469b-4335-aab2-c0d2f89ac90e,inv_75cbe9e6.pdf,2,Maple IT Services,MAP-2084,2026-01-28,2026-02-12,CAD,3089.35,401.62,3490.97,Net 15,clean,needs-approval,1eufEnF3naR7xplNKZLQaDaQDBI5DkaXy
+a2c32722-e0ad-4e56-87ad-2103e5c3eaca,inv_a2c32722.pdf,0,Bluebird Marketing,BLU-2085,2026-04-20,2026-05-20,CAD,673.95,87.61,822.48,Due on receipt,math_mismatch,needs-approval,1NWCYq_xFZ6Yb8NeK9MgrQIr9w7bwLnSf
+f4d49a51-fa18-4386-96e8-a5e0af83d238,inv_f4d49a51.pdf,1,QuickPrint Studio,QUI-2086,2026-05-27,2026-06-26,CAD,400.54,52.07,452.61,Net 45,clean,auto-approve,1faAPTsOn5GNP9zOMyq0eWTwrDqi3DV6Q
+18471402-08d8-4383-be47-367dae573a89,inv_18471402.pdf,2,Bluebird Marketing,BLU-2087,2026-02-20,2026-03-22,CAD,4960.68,644.89,5605.57,Net 45,clean,needs-approval,1toT6izcyNCS7FAmJPNADgK2GlyQg7Mov
+867425be-2dc2-42d5-9f3c-6536e8489f8b,inv_867425be.pdf,3,Maple IT Services,,2026-01-12,2026-01-27,CAD,3377.77,439.11,3816.88,Net 30,missing_invoice_number,needs-approval,1kc9zGoiq2BTZezJoZfjJYAtW1W1qFSvQ
+ac5bfd7e-6c39-4855-913e-a50fa2cd2030,inv_ac5bfd7e.pdf,0,Lakeside Logistics,LAK-2089,2026-01-18,2026-02-17,CAD,2216.96,288.20,2505.16,Net 15,clean,needs-approval,1AVd1UqT55Ai2vu_K_R9Y8sov_ku6FcdS
+f0dd4593-4ff3-4ad8-987d-c87d733ce366,inv_f0dd4593.pdf,0,Maple IT Services,MAP-2090,2026-05-19,2026-06-18,CAD,4726.16,614.40,5340.56,Due on receipt,clean,needs-approval,1yE30rouqheKc0gIPAtGKYtIQbpZuXvCG
+34ecae4b-deff-43bf-8304-83cbbd787dcb,inv_34ecae4b.pdf,0,Northstar Office Supply,NOR-2091,2026-05-21,2026-06-20,CAD,293.90,38.21,332.11,Net 45,clean,auto-approve,1Xu5AEPUtxYQc1n8KxJ3uSJuldy0J3U0f
+68537557-ee50-44e0-8eb3-8ff4c348104d,inv_68537557.pdf,3,Maple IT Services,MAP-2092,2026-05-02,2026-05-17,CAD,2669.26,347.00,3468.70,Due on receipt,math_mismatch,needs-approval,1cGZ6gLSHe4btT76Frw0HrZgkTjvKXF07
+7dff134e-35c4-4ba1-9b7a-9a2037cb1e06,inv_7dff134e.pdf,3,QuickPrint Studio,QUI-2093,2026-03-08,2026-04-22,CAD,641.11,83.34,724.45,Net 15,clean,auto-approve,1fclGfL9tBQ5uiBiM4sMzgE3CvcysDsL2
+8f0c87ae-a262-4d1d-abb6-54085d24a128,inv_8f0c87ae.pdf,1,Cedar Facilities Co,,2026-04-04,2026-05-04,CAD,1272.56,165.43,1437.99,Net 30,missing_invoice_number,needs-approval,1cJVw_AvdbMfwwd7FdcecIrWE-W6IGt3T
+942bd990-660d-4936-b834-afd0daade60c,inv_942bd990.pdf,2,Northstar Office Supply,NOR-2095,2026-06-02,2026-07-17,CAD,152.90,19.88,172.78,Net 45,clean,auto-approve,1YIIKpSTQ9eFNWKq_DQCA77UDQ0dHiBy5
+be6de2a7-af1e-48bf-a8dd-84bb943f87dc,inv_be6de2a7.pdf,2,Northstar Office Supply,,2026-06-15,2026-07-15,CAD,432.48,56.22,488.70,Net 15,missing_invoice_number,needs-approval,1s7xVcIs38ARBB1hpOiw2R67F1T1rXNK8
+3f537535-19f4-4a9c-9520-076fcfe26e86,inv_3f537535.pdf,2,Lakeside Logistics,LAK-2097,2026-05-03,2026-05-18,CAD,2529.88,328.88,2858.76,Net 30,clean,needs-approval,16nYU1jjeWCJ0mptvNlAyU3Wt6577omnM
+09e243cb-d57d-422f-8719-02e1032bc4e9,inv_09e243cb.pdf,3,QuickPrint Studio,QUI-2098,2026-06-19,2026-07-19,CAD,239.53,31.14,270.67,Due on receipt,clean,auto-approve,1d6_C3pThcMJpYEWaAUJLzWoxhGJNwa8p
+9f249fa0-35d2-4532-baa7-26e1f25154a4,inv_9f249fa0.pdf,0,Lakeside Logistics,,2026-06-07,2026-06-22,CAD,1141.04,148.34,1289.38,Net 45,missing_invoice_number,needs-approval,1XmVPIYtrxj_1dieXvVJMGZ4U6MJtdAbv
+3945ea53-6a0f-4e9a-b605-07a759763c8c,inv_3945ea53.pdf,2,Maple IT Services,MAP-2100,2026-03-25,2026-05-09,CAD,4649.56,604.44,5254.00,Net 15,clean,needs-approval,1u-7B9W7fXdS0TY5Wr0kr3w1HhQ3MkUqh
+e6f8a816-f604-46e2-a963-dcd407458ed0,inv_e6f8a816.pdf,2,Lakeside Logistics,LAK-2101,2026-06-25,2026-08-09,CAD,4168.26,541.87,4710.13,Net 15,clean,needs-approval,1OzAhH7WKnyRSz1MLpRfWwZDecOGige9Y
+7ad759f9-381d-4cf6-acb8-1b26110a484d,inv_7ad759f9.pdf,2,Maple IT Services,MAP-2102,2026-03-21,2026-04-05,CAD,6000.26,780.03,6780.29,Net 15,clean,needs-approval,1iRqQIjJ72SLJOb_djcg32ZsmmvlrXxtz
+32f9d477-191d-4293-ba9d-ca59d11f2595,inv_32f9d477.pdf,1,Cedar Facilities Co,CED-2103,2026-02-16,2026-04-02,CAD,1454.36,189.07,1643.43,Net 45,clean,needs-approval,1M0ylp_qVY4hcRSBEz-Yn-A0MojGWe8w9
+3e49a022-fb39-4834-99a6-d7ab107229ba,inv_3e49a022.pdf,1,Trillium Catering,,2026-05-03,2026-06-02,CAD,1715.14,222.97,1938.11,Due on receipt,missing_invoice_number,needs-approval,1KabIcVtsp5wczz2i7X0WTDzINiWShf9U
+fe16b880-4e2f-471d-92b4-154830d65d2e,inv_fe16b880.pdf,2,Bluebird Marketing,BLU-2105,2026-01-31,2026-02-15,CAD,5133.65,667.37,5801.02,Net 30,clean,needs-approval,1JgAQgSf6p5EAUkTPkC40D_o1dlSXfb4k
+d2f3bff1-041f-4f2a-bd61-2960117567ee,inv_d2f3bff1.pdf,1,Lakeside Logistics,LAK-2106,2026-04-21,2026-05-06,CAD,3184.22,413.95,3598.17,Net 45,clean,needs-approval,1aQOrap_RB7Azo-5VulqiRIB8yljZkaha
+7a4b4d69-4cd1-4286-8a5c-08b8d82801b8,inv_7a4b4d69.pdf,1,Maple IT Services,MAP-2102,2026-01-12,2026-02-11,CAD,1644.60,213.80,1858.40,Net 45,duplicate,needs-approval,15MXEp4TM9cwjFJIHCbnxutBob18cfpaX
+d079ca3a-c47c-4886-9c95-c1048191c44c,inv_d079ca3a.pdf,0,Northstar Office Supply,NOR-2108,2026-03-01,2026-03-31,CAD,569.00,73.97,642.97,Due on receipt,clean,auto-approve,1L815npdfl6CF4zQHl9mrLl8cyT-gmFsU
+7867f4ef-0a06-4f57-9023-ae2bc46dabad,inv_7867f4ef.pdf,0,Bluebird Marketing,BLU-2109,2026-05-02,2026-05-17,CAD,2391.98,310.96,2702.94,Due on receipt,clean,needs-approval,1UHHkoZo82NG4lgw7xei9uHA_ULyPyW1L
+1eee84bb-0d0e-4a36-acf1-e17a3015d0b9,inv_1eee84bb.pdf,2,QuickPrint Studio,QUI-2110,2026-05-31,2026-07-15,CAD,512.62,66.64,579.26,Net 15,clean,auto-approve,1jG9XMXIQ4t1Scw8Otcr6z1Oa9YDLgADi
+b2a15683-fade-4c42-8ea7-84c12aace9cb,inv_b2a15683.pdf,0,Northstar Office Supply,NOR-2108,2026-01-16,2026-03-02,CAD,421.84,54.84,476.68,Net 45,duplicate,needs-approval,1kuF4E3bYo_j7gaY9BWY0fT_VYpXReO3b
+0245a211-46bf-4eae-acb4-29c4bb22ef03,inv_0245a211.pdf,2,Maple IT Services,MAP-2112,2026-06-02,2026-07-02,CAD,2506.08,325.79,2831.87,Net 45,clean,needs-approval,1rNEbCT6w7xPSSf2fJBZG7oDYyc3GRm3b
+764fa6a8-49e2-4a3a-8f81-3b3ab369dd77,inv_764fa6a8.pdf,0,Bluebird Marketing,BLU-2113,2026-01-21,2026-03-07,CAD,64.00,8.32,72.32,Net 30,clean,auto-approve,1rijBaE3NkAistkxpOLl7yTWwOizxjBbw
+f934b7d6-92fd-4627-9649-9f110f8ecaa6,inv_f934b7d6.pdf,2,Bluebird Marketing,BLU-2113,2026-05-16,2026-06-30,CAD,2011.26,261.46,2272.72,Due on receipt,duplicate,needs-approval,1uWwLc8NB8KpoO5Keo-nQhIZdW_IIBGKJ
+3fb9c9b4-2b3d-474f-8b3b-1d60b300d181,inv_3fb9c9b4.pdf,3,Northstar Office Supply,,2026-03-15,2026-03-30,CAD,414.60,53.90,468.50,Due on receipt,missing_invoice_number,needs-approval,12H7yzTx2uSA7uVqu0SoMlAwtbCeXsfpM
+c73a2a41-5be1-40bd-9187-e73d534fb189,inv_c73a2a41.pdf,2,Bluebird Marketing,BLU-2116,2026-03-21,2026-04-20,CAD,3187.70,414.40,3602.10,Net 45,clean,needs-approval,1wzN_PRodTijV7-owg3elB5CLfpnbq7uG
+0eb71d22-ef93-4a3d-a184-120f8619021e,inv_0eb71d22.pdf,0,Maple IT Services,MAP-2117,2026-06-25,2026-08-09,CAD,2675.69,347.84,3023.53,Net 30,clean,needs-approval,1ooXG_VCR94atNAHZppKWCm_16CTKGnoh
+c8cad2bd-ecb3-4b6e-b033-1f77bb7eba0f,inv_c8cad2bd.pdf,2,Northstar Office Supply,,2026-04-10,2026-05-25,CAD,847.37,110.16,957.53,Net 30,missing_invoice_number,needs-approval,16KuHpISxYBe2rRkXTAq5ixM8BASmC7E3
+5f3cdf96-3abb-4f96-83bd-04a273036e22,inv_5f3cdf96.pdf,3,Maple IT Services,MAP-2117,2026-04-29,2026-05-29,CAD,2909.45,378.23,3287.68,Net 45,duplicate,needs-approval,11g6wiCFu-ov3ob_AxTthWVDm6xOYyKcT
+165f5d3d-acd1-4821-a93b-e33be196735e,inv_165f5d3d.pdf,2,Northstar Office Supply,NOR-2120,2026-06-28,2026-07-28,CAD,454.14,59.04,513.18,Net 15,clean,auto-approve,1asrWnPSphilLIuYmx0mXonmiC-ENm_1l
+1f874175-69c4-46b1-a2c0-421b1b769d94,inv_1f874175.pdf,1,Cedar Facilities Co,CED-2103,2026-03-03,2026-03-18,CAD,1389.06,180.58,1569.64,Net 30,duplicate,needs-approval,1MCvYbL0SZSRuRZ0nH8V_ZHZu_kL-TyKR
+b08297c7-e1e9-4ff6-914e-db9f00feefde,inv_b08297c7.pdf,0,Bluebird Marketing,BLU-2122,2026-05-31,2026-06-30,CAD,5869.15,762.99,6632.14,Net 30,clean,needs-approval,1iFKe3Klv8rJbHbN9uA8IFAYYlXJiYT4t
+db621011-2660-4f36-b062-7959917aec1e,inv_db621011.pdf,1,Northstar Office Supply,NOR-2123,2026-06-28,2026-07-28,CAD,490.11,63.71,553.82,Net 30,clean,auto-approve,1vNR2peJhIYAoy3rDHAZqqzvTlbIt4Cm8
+8cc45c91-67d0-4165-a922-6f41f97d3a47,inv_8cc45c91.pdf,0,Lakeside Logistics,LAK-2124,2026-03-28,2026-04-27,CAD,2231.10,290.04,2521.14,Net 45,clean,needs-approval,1XaYLvScDIdEr3f9P4aNBAFfL_D02PrbJ
+65f093fa-9fca-4f45-b823-e5357d40a307,inv_65f093fa.pdf,0,Maple IT Services,MAP-2125,2026-06-02,2026-07-02,CAD,2309.16,300.19,2609.35,Net 45,clean,needs-approval,12smOGtiHAs3GVDjO9kgx30Ky4L_vl20y
+7d7a829a-70ed-4e90-885e-e111a458b99b,inv_7d7a829a.pdf,0,Cedar Facilities Co,,2026-03-13,2026-04-12,CAD,1171.46,152.29,1323.75,Due on receipt,missing_invoice_number,needs-approval,19-PnBO9P1u0nVuBHYP9_iCmEYPtfWdU6
+19b2d853-97dd-4ebc-b9ab-f638db3a2ac0,inv_19b2d853.pdf,3,Lakeside Logistics,LAK-2127,2026-01-23,2026-02-07,CAD,1129.40,146.82,1276.22,Due on receipt,clean,needs-approval,1w0BrNzPanlsm7gOi86PxM-1CPJDPGYka
+08288132-c77c-400f-926e-b3d383eea524,inv_08288132.pdf,2,Lakeside Logistics,LAK-2128,2026-02-01,2026-03-03,CAD,2594.25,337.25,2931.50,Net 15,clean,needs-approval,1iIc7IIU3IAv4XcR61sX9Y64yuuMVV7yL
+6cb9c004-1f45-4ef4-972e-5aff45e7e760,inv_6cb9c004.pdf,1,Lakeside Logistics,LAK-2128,2026-02-14,2026-03-16,CAD,2191.02,284.83,2475.85,Net 45,duplicate,needs-approval,1e81eHMYWpSeM7uegHpGc8S67igLSIxHN
+904d19eb-7385-4f4b-a2c3-59b95f4b0dd3,inv_904d19eb.pdf,2,Bluebird Marketing,BLU-2130,2026-01-17,2026-02-16,CAD,2553.65,331.97,2885.62,Due on receipt,clean,needs-approval,1pyOTkdCc3r_gVdLktoplFgeDtORx2AaT
+ea2557bf-8b30-43af-b5ea-abb19fe98d99,inv_ea2557bf.pdf,0,Lakeside Logistics,,2026-03-13,2026-04-12,CAD,2254.36,293.07,2547.43,Net 45,missing_invoice_number,needs-approval,1AUcxBCyl-YSAjpTjvI1gaAk3621QNuqy
+630e4866-994d-4f3b-898f-8a3888d0f458,inv_630e4866.pdf,3,Lakeside Logistics,LAK-2132,2026-03-17,2026-04-01,CAD,2651.40,344.68,2996.08,Net 15,clean,needs-approval,1Ibxb8pyjsV2n_qNGoEimFlfDclLQG6X7
+7fa4ed3d-8241-4b6a-b071-d7f4b2a6541e,inv_7fa4ed3d.pdf,1,Maple IT Services,MAP-2133,2026-03-31,2026-05-15,CAD,1950.91,253.62,2204.53,Net 30,clean,needs-approval,1DYq5lkaoOZkrEOhrHl7SGGHsIxrcjs9O
+9f9848bf-d97a-449d-8396-c324fb8948c7,inv_9f9848bf.pdf,3,Maple IT Services,MAP-2134,2026-05-21,2026-07-05,CAD,3344.44,434.78,3779.22,Net 45,clean,needs-approval,1UbUQHMKhpbG5hdXZ4AiJ2NdTuUEi7k1n
+4675b0d8-9f39-459c-b433-b81f2bbcd24e,inv_4675b0d8.pdf,1,Bluebird Marketing,,2026-06-21,2026-07-21,CAD,11144.16,1448.74,12592.90,Due on receipt,missing_invoice_number,needs-approval,1PAl0Ndg4WGq5jmkuon3HEEk-RWbubfpH
+5373cbec-544b-4ae6-8ce5-e23afd9f37fe,inv_5373cbec.pdf,0,Lakeside Logistics,LAK-2136,2026-02-26,2026-04-12,CAD,1202.04,156.27,1358.31,Due on receipt,clean,needs-approval,1q5a4Wvp1Y7ZFhstrQuEsTPV_d9aNTQL2
+80b6160f-72b6-4186-8c6e-47fbf13f8ea5,inv_80b6160f.pdf,2,Bluebird Marketing,BLU-2137,2026-02-18,2026-04-04,CAD,3004.13,390.54,3903.87,Net 45,math_mismatch,needs-approval,1STOWvbf9NZBDKufwy7CslDHg9V33JDDb
+e962aba8-435a-4b09-9073-a8f7a52b750d,inv_e962aba8.pdf,2,Bluebird Marketing,BLU-2138,2026-02-27,2026-04-13,CAD,4660.89,605.92,5266.81,Net 45,clean,needs-approval,1dUqwQCgv2Ja9DtPdkDFzVVddKuTt1tXN
+5bab4a0f-5348-4e85-97e5-343fec402531,inv_5bab4a0f.pdf,2,Maple IT Services,MAP-2139,2026-05-07,2026-06-06,CAD,8813.55,1145.76,9959.31,Net 45,clean,needs-approval,1-uqYcTdx9Tr6rHN7-2ncIsG4rFoJp9a7
+f8bdfae7-6e76-4097-a3e7-6ae564e38210,inv_f8bdfae7.pdf,0,Northstar Office Supply,NOR-2140,2026-01-18,2026-02-02,CAD,281.42,36.58,318.00,Due on receipt,clean,auto-approve,1UU1p-i16qb0v9jGfkIiAU2bph5NQhxra
+54a0cdff-7ed4-4696-8016-94d6fff8f906,inv_54a0cdff.pdf,2,QuickPrint Studio,,2026-05-07,2026-06-06,CAD,405.92,52.77,458.69,Net 45,missing_invoice_number,needs-approval,1dvuWD9E0fSVO6VGLgCs9Y0pu1rrWrcuL
+1470fba7-0907-4a21-9097-002088b5bdac,inv_1470fba7.pdf,0,Maple IT Services,MAP-2142,2026-01-14,2026-02-13,CAD,529.74,68.87,598.61,Net 30,clean,auto-approve,1-AXtsTJ_CJwwJ3nJZd8jB8I9iGtgA5r9
+4b8a1895-764f-44b0-a244-2d5e437a2d5c,inv_4b8a1895.pdf,3,Trillium Catering,TRI-2143,2026-05-24,2026-07-08,CAD,345.02,44.85,421.06,Net 30,math_mismatch,needs-approval,1KrTqiCaDHDtwwTPGlvGOVLQGBlT3qfol
+1d24bac0-9351-40c2-9086-0b9188312f2d,inv_1d24bac0.pdf,2,Northstar Office Supply,NOR-2144,2026-05-02,2026-06-01,CAD,715.92,93.07,808.99,Net 15,clean,auto-approve,1AhiKsieVT-yHMYr5FylYcXDywlVhwNBE
+e6138967-e777-45a9-b2b7-ac8634705c61,inv_e6138967.pdf,1,Bluebird Marketing,BLU-2145,2026-03-29,2026-04-13,CAD,5076.55,659.95,5736.50,Net 15,clean,needs-approval,18ZdZO21TMZRkrYQCOl0jgyN8WnJNBxhz
+a2f44547-94c7-4de3-91a4-a7a5a7027786,inv_a2f44547.pdf,3,Trillium Catering,TRI-2146,2026-04-07,2026-05-07,CAD,477.55,62.08,539.63,Net 15,clean,auto-approve,11sauSoChNDAz4vyZZJcRL3UOjmxvLZa6
+1954154e-e38d-4616-858e-cc1a61a5756c,inv_1954154e.pdf,2,Maple IT Services,MAP-2147,2026-03-02,2026-04-01,CAD,5978.06,777.15,6755.21,Due on receipt,clean,needs-approval,1RJyNSy3LWOMYPnrVQgFVCkAx2uq8AKnF
+63606811-4cb6-40de-adb6-3befa3976c2e,inv_63606811.pdf,1,Lakeside Logistics,LAK-2148,2026-02-02,2026-02-17,CAD,2605.64,338.73,2649.93,Net 30,math_mismatch,needs-approval,1MeDmKqx8fbApn7qkFP-31NtPSdksaR0L
+c69ff49d-ca86-490f-b0bc-696fe7c142c2,inv_c69ff49d.pdf,0,Maple IT Services,MAP-2149,2026-01-19,2026-03-05,CAD,5449.54,708.44,6157.98,Net 45,clean,needs-approval,1tFA-smNU6b2KFgzOG3MzdSL8_lS_WG6G
